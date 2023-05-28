@@ -1,5 +1,5 @@
 # yandex_algorithm_training
-My variants of successful solutions for Yandex algorithm tasks
+My solutions of Yandex algorithm tasks
 
 # Training 1 page
 https://yandex.ru/yaintern/algorithm-training_1
